@@ -990,6 +990,9 @@ nav input{
 /* Media query for screens less than 767px */
 @media (max-width: 767px) {
 
+    img {
+    max-width: NNNpx;
+}
 
 html, body {
     max-width: 100%;
