@@ -1,1 +1,1 @@
-https://anurag03-tech.github.io/NSUT--Home-page-clone/
+https://anurag03-tech.github.io/Responsive-NSUT-Home-page/
